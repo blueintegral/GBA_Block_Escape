@@ -1,0 +1,6 @@
+#ifndef __SAMPLES_H__
+#define __SAMPLES_H__
+
+#define SAMPLE_KWISATZHADERACHPURPLEBANDIT 6
+
+#endif
